@@ -1,0 +1,3 @@
+[submodule "docker-jenkinsci"]
+	path = docker-jenkinsci
+	url = git@github.com:elegoev/docker-jenkinsci.git
