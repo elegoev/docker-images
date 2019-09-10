@@ -25,4 +25,4 @@ For all notable changes see [CHANGELOG](https://github.com/elegoev/docker-images
 Licensed under The MIT License (MIT) - for the full copyright and license information, please view the [LICENSE](https://github.com/elegoev/docker-images/blob/master/LICENSE) file.
 
 ### Issue Reporting
-Any and all feedback is welcome.  Please let me know of any issues you may find in the bug tracker on github. You can find it [here. ](https://github.com/elegoev/docker-images/vagrant-ubuntu-18.04/issues)
+Any and all feedback is welcome.  Please let me know of any issues you may find in the bug tracker on github. You can find it [here. ](https://github.com/elegoev/docker-images/issues)
