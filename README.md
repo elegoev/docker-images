@@ -13,6 +13,13 @@ Repository for Docker Images (see DockerHub [elegoev](https://hub.docker.com/u/e
 - [drush 7](./docker-drush-7)
 - [nginx](./docker-nginx)
 
+### Docker Commands
+#### Docker Build
+|                      | command                                            |
+|----------------------|----------------------------------------------------|
+| build image          | docker build --rm -t \<image name\> .              |
+| shell in container   | docker exec -it \<conainer id\> \<bash \| sh\>     |
+
 ### Versioning
 Repository follows sematic versioning  [![](https://img.shields.io/badge/semver-2.0.0-green.svg)](http://semver.org)
 
