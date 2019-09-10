@@ -5,6 +5,11 @@ Repository for Docker Images (see DockerHub [elegoev](https://hub.docker.com/u/e
 #### Actual Images
 #### Deprecated Images
 - [camunda bpm 7.4](./docker-camunda-bpm-74)
+- [camunda bpm workbench](./docker-camunda-bpm-workbench)
+- [dockerui](./docker-dockerui)
+- [drupal drush 7](./docker-drupal-drush-7)
+- [drush 7](./docker-drush-7)
+- [nginx](./docker-nginx)
 
 ### Versioning
 Repository follows sematic versioning  [![](https://img.shields.io/badge/semver-2.0.0-green.svg)](http://semver.org)
