@@ -2,18 +2,9 @@
 Repository for Docker Images (see DockerHub [elegoev](https://hub.docker.com/u/elegoev))
 
 ### List of Docker Images
-- [ubuntu 18.04](https://github.com/elegoev/basebox-ubuntu-18.04)
-- [ubuntu 18.04 with Mate](https://github.com/elegoev/basebox-ubuntu-18.04-mate)
-- [ansible](https://github.com/elegoev/basebox-ubuntu-18.04-ansible)
-- [docker](https://github.com/elegoev/basebox-ubuntu-18.04-docker)
-- [k3s](https://github.com/elegoev/basebox-ubuntu-18.04-k3s)
-- [k3d](https://github.com/elegoev/basebox-ubuntu-18.04-k3d)
-- [minIO](https://github.com/elegoev/basebox-ubuntu-18.04-minio)
-- [nfs](https://github.com/elegoev/basebox-ubuntu-18.04-nfs)
-- [rancher](https://github.com/elegoev/basebox-ubuntu-18.04-rancher)
-- [rke](https://github.com/elegoev/basebox-ubuntu-18.04-rke)
-- [chartmuseum](https://github.com/elegoev/basebox-ubuntu-18.04-chartmuseum)
-- [jenkins](https://github.com/elegoev/basebox-ubuntu-18.04-jenkins)
+#### Actual Images
+#### Deprecated Images
+- [camunda bpm 7.4](./docker-camunda-bpm-74)
 
 ### Versioning
 Repository follows sematic versioning  [![](https://img.shields.io/badge/semver-2.0.0-green.svg)](http://semver.org)
