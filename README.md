@@ -3,6 +3,8 @@ Repository for Docker Images (see DockerHub [elegoev](https://hub.docker.com/u/e
 
 ### List of Docker Images
 #### Actual Images
+- [jenkinsci](https://github.com/elegoev/docker-jenkinsci)
+
 #### Deprecated Images
 - [camunda bpm 7.4](./docker-camunda-bpm-74)
 - [camunda bpm workbench](./docker-camunda-bpm-workbench)
