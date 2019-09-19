@@ -1,3 +1,6 @@
 [submodule "docker-jenkinsci"]
 	path = docker-jenkinsci
 	url = git@github.com:elegoev/docker-jenkinsci.git
+[submodule "docker-jenkinsci-docker"]
+	path = docker-jenkinsci-docker
+	url = git@github.com:elegoev/docker-jenkinsci-docker.git
