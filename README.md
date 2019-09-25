@@ -13,6 +13,22 @@ Repository for Docker Images (see DockerHub [elegoev](https://hub.docker.com/u/e
 - [drush 7](./docker-drush-7)
 - [nginx](./docker-nginx)
 
+### Create Development Environment
+#### Development with Vagrant
+1. Change to dokcer image subdirectory (e.g. cd docker-jenkinsci)
+1. Create vagrantbox `vagrant up`
+1. Login `vagrant ssh`
+1. Change directory `cd /vagrant`
+1. Build & run image `./build_image.sh`
+
+### Create New Image Version
+#### Create Release on GitHub
+- see [Create Release](https://help.github.com/en/articles/creating-releases) in GitHub Help
+
+#### Create Release with Git
+- git tag \<version\> (e.g. v1.0.0)
+- git push --tag
+
 ### Docker Commands
 #### Docker Build
 |                      | command                                            |
